@@ -504,12 +504,9 @@ section .location {
   border-bottom: none;
 }
 
+#interests .item,
 #skills .item {
-  width: 16em;
-}
-
-#skills .item .keywords {
-  width: 15em;
+  flex-grow: 1;
 }
 
 /* Skill chart */

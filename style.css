@@ -368,8 +368,6 @@ section .location {
 }
 
 .keywords,
-.courses {
-  margin: 0.5em 0;
 .courses,
 .website {
   margin-bottom: 0.5em;
